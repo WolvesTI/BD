@@ -1,13 +1,7 @@
--- ==========================================================
+
 -- PROYECTO ACA - PITCH FINAL: BASES DE DATOS (CUN)
 -- Contexto: Sistema de Gestión de Soporte Técnico y Reparación de PC
--- Base de Datos: ACA_SoporteTecnico
--- Archivo: BaseDatos_ACA.sql
--- ==========================================================
 
--- ----------------------------------------------------------
--- 1. SENTENCIAS DDL (CREACIÓN DE BASE DE DATOS Y TABLAS)
--- ----------------------------------------------------------
 
 CREATE DATABASE IF NOT EXISTS ACA_SoporteTecnico;
 USE ACA_SoporteTecnico;
